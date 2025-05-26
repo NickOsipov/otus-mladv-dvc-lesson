@@ -1,0 +1,5 @@
+[core]
+    remote = otus-mladv-dvc-lesson
+['remote "otus-mladv-dvc-lesson"']
+    url = s3://otus-mladv-dvc-lesson/dvcstore
+    endpointurl = https://storage.yandexcloud.net
